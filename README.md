@@ -1,2 +1,2 @@
 # mdocker
-docker精简
+docker精简版，暂时自用。
